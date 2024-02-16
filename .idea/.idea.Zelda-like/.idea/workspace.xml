@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da0f154a-661c-4e31-8b41-6e692b7d4baa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Zelda-like/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Zelda-like/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Zelda-like/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Zelda-like/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/gfx/character.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/gfx/character.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704190923679</updated>
       <workItem from="1704190943261" duration="1102000" />
-      <workItem from="1708022283921" duration="3371000" />
+      <workItem from="1708022283921" duration="3861000" />
+      <workItem from="1708082877872" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="initial project scene">
       <created>1708023772432</created>
@@ -85,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708023772432</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="repeat 3rd video from tutorial &#10;https://www.youtube.com/watch?v=--N5IgSUQWI&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=3">
+      <created>1708027490763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708027490763</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,10 +118,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial project scene" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial project scene" />
+    <MESSAGE value="repeat 3rd video from tutorial &#10;https://www.youtube.com/watch?v=--N5IgSUQWI&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=3" />
+    <option name="LAST_COMMIT_MESSAGE" value="repeat 3rd video from tutorial &#10;https://www.youtube.com/watch?v=--N5IgSUQWI&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=3" />
   </component>
 </project>
