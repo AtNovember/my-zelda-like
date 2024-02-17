@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da0f154a-661c-4e31-8b41-6e692b7d4baa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Zelda-like/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Zelda-like/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/gfx/character.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/gfx/character.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +14,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://G:/UnityProjects/Zelda-like/Assets/Art/gfx/character.png.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://G:/UnityProjects/Zelda-like/ProjectSettings/UnityConnectSettings.asset" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/.gitignore" />
-      <option value="$PROJECT_DIR$/.gitignore" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/.gitignore" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2aOY6tscrLcKFdbbzydT4Elpkml" />
@@ -78,7 +81,7 @@
       <updated>1704190923679</updated>
       <workItem from="1704190943261" duration="1102000" />
       <workItem from="1708022283921" duration="3861000" />
-      <workItem from="1708082877872" duration="1856000" />
+      <workItem from="1708082877872" duration="3112000" />
     </task>
     <task id="LOCAL-00001" summary="initial project scene">
       <created>1708023772432</created>
@@ -94,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708027490763</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add character animation&#10;https://www.youtube.com/watch?v=Vfq13LRggwk&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=5">
+      <created>1708087064637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708087064637</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +134,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial project scene" />
     <MESSAGE value="repeat 3rd video from tutorial &#10;https://www.youtube.com/watch?v=--N5IgSUQWI&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=3" />
-    <option name="LAST_COMMIT_MESSAGE" value="repeat 3rd video from tutorial &#10;https://www.youtube.com/watch?v=--N5IgSUQWI&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=3" />
+    <MESSAGE value="add character animation&#10;https://www.youtube.com/watch?v=Vfq13LRggwk&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add character animation&#10;https://www.youtube.com/watch?v=Vfq13LRggwk&amp;list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&amp;index=5" />
   </component>
 </project>
